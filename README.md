@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @chettamonivamshi
-- 👀 I’m interested in appdevelpoment,webdevelopment,cybersecurity.
-- 🌱 I’m currently learning C.
+- 👀 I’m interested in appdevelpoment,webdevelopment.
+- 🌱 I’m currently learning C,C++,HTML.
 - 💞️ I’m looking to collaborate on college projects.
-- 📫 How to reach me 
+- 📫 email me:chettamonivamshi@gmail.com 
 
 <!---
 chettamonivamshi/chettamonivamshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
